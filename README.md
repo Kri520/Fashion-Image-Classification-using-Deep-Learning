@@ -212,4 +212,4 @@ This project is open-source and available under the MIT License.
 
 Krishna Meena
 
-Deep Learning & Computer Vision Enthusiast
+
